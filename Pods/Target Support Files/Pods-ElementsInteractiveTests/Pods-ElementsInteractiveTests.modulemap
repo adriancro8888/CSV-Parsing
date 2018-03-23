@@ -1,0 +1,6 @@
+framework module Pods_ElementsInteractiveTests {
+  umbrella header "Pods-ElementsInteractiveTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
